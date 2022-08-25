@@ -1,0 +1,158 @@
+.App {
+  text-align: center;
+  width: 1920px;
+  height: 1429px;
+}
+
+.Owner-Text {
+  margin-top: 36px;
+  width: 52px;
+  height: 19px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #008DFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.Icon-Form {
+  width: 16px;
+  height: 16px;
+  margin-top: 20px;
+  margin-right: 14px;
+}
+
+.App-logo {
+  width: 311.33px;
+  height: 170px;
+  margin-left: 342px;
+  margin-top: 70px;
+}
+
+.Register-Container {
+  margin-top: 100px;
+}
+
+.Register-Form {
+  width: 311px;
+  margin-left: 342px;
+}
+
+.Register-Text {
+  width: 96px;
+  height: 24px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color:#041967;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.Image-container {
+  width: 855px;
+  height: 760px;
+  background: #F9F9F9;
+  border: 1px solid #EFEFEF;
+  border-radius:16px;
+  margin-bottom: 334px;
+  margin-right: 70px;
+  margin-top: 335px;
+}
+
+.slider {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.image-1 {
+  width: 449.93px;
+  height: 300px;
+  margin-top: 170px;
+  margin-left: 203px;
+  margin-right: 202.07px;
+  margin-bottom: 158px;
+}
+
+.image-2 {
+  width: 461px;
+  height: 300px;
+  margin-top: 170px;
+  margin-left: 193px;
+  margin-right: 193px;
+  margin-bottom: 158px;
+}
+
+.image-3 {
+  width: 520.69px;
+  height: 298.46px;
+  margin-top: 170px;
+  margin-left: 160px;
+  margin-right: 174.31px;
+  margin-bottom: 158px;
+}
+
+.title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #008DFF
+}
+
+.des {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: #3B3B3B;
+  text-align: center;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 11px 48px 12px;
+  gap: 10px;
+  width: 245px;
+  height: 50px;
+  background: #041967;
+  border-radius: 16px;
+  margin-top: 40px;
+  margin-bottom: 48px;
+}
+
+.bottom-text {
+  width: 228px;
+  height: 19px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #3B3B3B;
+}
+
+.cmark {
+  width: 134px;
+  height: 23.82px;
+  align-items: center;
+  background: #FFFFFF;
+  display: block;
+  margin-top: 147px;
+  margin-left: 50px;
+}
